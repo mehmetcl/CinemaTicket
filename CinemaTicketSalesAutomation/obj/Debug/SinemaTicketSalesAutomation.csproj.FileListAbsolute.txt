@@ -1,0 +1,11 @@
+C:\Users\mehme\OneDrive\Masaüstü\C#\Windows Form App\SinemaTicketSalesAutomation\SinemaTicketSalesAutomation\bin\Debug\SinemaTicketSalesAutomation.exe
+C:\Users\mehme\OneDrive\Masaüstü\C#\Windows Form App\SinemaTicketSalesAutomation\SinemaTicketSalesAutomation\bin\Debug\SinemaTicketSalesAutomation.pdb
+C:\Users\mehme\OneDrive\Masaüstü\C#\Windows Form App\SinemaTicketSalesAutomation\SinemaTicketSalesAutomation\obj\Debug\SinemaTicketSalesAutomation.csproj.AssemblyReference.cache
+C:\Users\mehme\OneDrive\Masaüstü\C#\Windows Form App\SinemaTicketSalesAutomation\SinemaTicketSalesAutomation\obj\Debug\SinemaTicketSalesAutomation.csproj.SuggestedBindingRedirects.cache
+C:\Users\mehme\OneDrive\Masaüstü\C#\Windows Form App\SinemaTicketSalesAutomation\SinemaTicketSalesAutomation\obj\Debug\SinemaTicketSalesAutomation.Properties.Resources.resources
+C:\Users\mehme\OneDrive\Masaüstü\C#\Windows Form App\SinemaTicketSalesAutomation\SinemaTicketSalesAutomation\obj\Debug\SinemaTicketSalesAutomation.csproj.GenerateResource.cache
+C:\Users\mehme\OneDrive\Masaüstü\C#\Windows Form App\SinemaTicketSalesAutomation\SinemaTicketSalesAutomation\obj\Debug\SinemaTicketSalesAutomation.csproj.CoreCompileInputs.cache
+C:\Users\mehme\OneDrive\Masaüstü\C#\Windows Form App\SinemaTicketSalesAutomation\SinemaTicketSalesAutomation\obj\Debug\SinemaTicketSalesAutomation.exe
+C:\Users\mehme\OneDrive\Masaüstü\C#\Windows Form App\SinemaTicketSalesAutomation\SinemaTicketSalesAutomation\obj\Debug\SinemaTicketSalesAutomation.pdb
+C:\Users\mehme\OneDrive\Masaüstü\C#\Windows Form App\SinemaTicketSalesAutomation\SinemaTicketSalesAutomation\obj\Debug\SinemaTicketSalesAutomation.Form1.resources
+C:\Users\mehme\OneDrive\Masaüstü\C#\Windows Form App\SinemaTicketSalesAutomation\SinemaTicketSalesAutomation\obj\Debug\SinemaTicketSalesAutomation.Form2.resources
